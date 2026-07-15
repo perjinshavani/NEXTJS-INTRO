@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Moon Explorer",
+      "role": "Astronaut",
+      "image": "/astronomi.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Earth Station",
+      "role": "Research Base",
+      "image": "/jorden.jpg",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Solar Observer",
+      "role": "Scientist",
+      "image": "/solsystem.jpg",
+      "available": false
+    }
+  ]
+}
+
+
+
