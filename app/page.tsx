@@ -8,7 +8,7 @@ export default function Home() {
  <main>
   <Hero />
 
-  <section className="grid gap-6 bg-black p-8 sm:grid-cols-2 lg:grid-cols-3">
+ <section className="grid grid-cols-1 gap-6 bg-black p-8 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl mx-auto">
   {data.characters.map((character) => (
     <CharacterCard
       key={character.id}
@@ -17,15 +17,8 @@ export default function Home() {
       role={character.role}
       image={character.image}
       available={character.available}
-
-      
-
-  
     />
   ))}
-
-
- 
 </section>
 
 

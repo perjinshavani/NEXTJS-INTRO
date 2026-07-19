@@ -33,25 +33,31 @@ console.log(data);
 const characters: Character[] = data.items;
 
  return (
-  <main style={{ paddingTop: "100px" }}>
-    <h1>Futurama</h1>
+  <main className="bg-black min-h-screen pt-24 p-8">
+    <h1 className="mb-8 text-center text-4xl font-bold text-white">
+      Futurama
+    </h1>
 
-{characters.map((character) => (
-  <div key={character.id}>
-    <img
-      src={character.image}
-      alt={character.name}
-      width="200"
-    />
+    <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {characters.map((character) => (
+        <article
+          key={character.id}
+          className="rounded-xl bg-zinc-900 p-4 text-white"
+        >
+          <img
+            src={character.image}
+            alt={character.name}
+            className="h-64 w-full rounded-lg object-cover"
+          />
 
-    <h2>{character.name}</h2>
+          <h2 className="mt-4 text-2xl font-bold">{character.name}</h2>
 
-    <p>{character.species}</p>
+          <p>{character.species}</p>
 
-    <p>{character.status}</p>
-  </div>
-))}
-
+          <p>{character.status}</p>
+        </article>
+      ))}
+    </section>
   </main>
 );
 }
