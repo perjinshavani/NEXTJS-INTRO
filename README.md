@@ -1,25 +1,24 @@
-# Nature Explorer
 
-## About
-Nature Explorer is a web application built with Next.js. The project showcases beautiful places in Sweden and focuses on reusable components, routing, and responsive design.
 
-## Features
-- Browse different places
-- Dynamic routing
-- Reusable React components
-- Responsive layout
+# Futurama API
 
-## Technologies
+Det här projektet är byggt med Next.js och använder ett REST API för att hämta data om Futurama-karaktärer.
+
+## Syfte
+Syftet med projektet är att lära mig:
+- API-anrop med `fetch()`
+- Dynamiska routes med `params`
+- `searchParams` för att skicka parametrar i URL:en
+- Felhantering med `response.ok`
+- Visa data från ett API i en Next.js-applikation
+
+## Funktioner
+- Visar en lista med karaktärer.
+- Hämtar en specifik karaktär med hjälp av id.
+- Användaren kan bestämma hur många karaktärer som ska visas genom `limit` i URL:en.
+
+## Tekniker
 - Next.js
-- React
 - TypeScript
-- Tailwind CSS
-
-## What I learned
-This project helped me practice routing, reusable components, and working with Next.js.
-
-## Screenshot
-(Add a screenshot here)
-
-## Live Demo
-(Add your Vercel link here)
+- React
+- REST API
