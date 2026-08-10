@@ -115,11 +115,12 @@ NEXTJS-INTRO/
 ## Author
 
 Perjin Shavani
+Linkedin:www.linkedin.com/in/perjn-shavani-43602238
 
 
 
 
--
+
 
   
 
