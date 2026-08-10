@@ -60,6 +60,11 @@ npm run dev
 ```text
 http://localhost:3000
 ```
+## Author
+
+- [Perjin Shavani](https://github.com/perjinshavani)
+
+  
 
 
   
