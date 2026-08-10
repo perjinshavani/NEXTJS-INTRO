@@ -114,10 +114,10 @@ NEXTJS-INTRO/
 
 ## Author
 
-Perjin Shavani
-https://github.com/perjinshavani
-Linkedin:www.linkedin.com/in/perjn-shavani-43602238
+**Perjin Shavani**
 
+- GitHub: [@perjinshavani](https://github.com/perjinshavani)
+- LinkedIn: [Perjin Shavani](https://www.linkedin.com/in/perjin-shavani-43602238)
 
 
 
