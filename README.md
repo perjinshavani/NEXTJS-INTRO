@@ -24,9 +24,28 @@ Syftet med projektet är att lära mig:
 - TypeScript
 - React
 - REST API
+
+  ## How It Works
+
+Applikationen hämtar data om Futurama-karaktärer från ett externt REST API.
+
+1. Data hämtas med `fetch()`.
+2. Svaret kontrolleras med `response.ok`.
+3. Karaktärerna visas på sidan.
+4. Användaren kan bestämma hur många karaktärer som visas med `limit`.
+5. En specifik karaktär kan hämtas med hjälp av dess `id`.
+
+## API
+
+Projektet använder Futurama API för att hämta information om karaktärer.
+
+API:et används för att:
+
+- Hämta en lista med Futurama-karaktärer.
+- Begränsa hur många karaktärer som visas.
+- Hämta en specifik karaktär med hjälp av dess `id`.
+- 
 ## Screenshot
-
-
 Futurama-webbapplikationen hämtar och visar karaktärsdata dynamiskt från ett externt REST API
 
 ![Min Futurama-sida](./app/images/Futurama.png)
