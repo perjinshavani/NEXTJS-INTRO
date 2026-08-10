@@ -112,7 +112,7 @@ NEXTJS-INTRO/
 └── next.config.ts
 
 
-```bash
+
 ``` 
 
 ## Author
