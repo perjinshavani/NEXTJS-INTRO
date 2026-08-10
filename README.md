@@ -60,6 +60,11 @@ npm run dev
 ```text
 http://localhost:3000
 ```
+
+## Usage
+
+Starta applikationen och öppna den i webbläsaren. 
+Navigera till Futurama-sidan för att se karaktärer och information som hämtas från ett externt API.
 ## Author
 
 - [Perjin Shavani](https://github.com/perjinshavani)
