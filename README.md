@@ -24,7 +24,8 @@ Syftet med projektet är att lära mig:
 - REST API
 ## Screenshot
 
-Här är min Futurama-webbapplikation som hämtar data från ett API.
+
+Futurama-webbapplikationen hämtar och visar karaktärsdata dynamiskt från ett externt REST API
 
 ![Min Futurama-sida](./app/images/Futurama.png)
 
