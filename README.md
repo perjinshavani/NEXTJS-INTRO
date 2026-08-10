@@ -44,7 +44,7 @@ API:et används för att:
 - Hämta en lista med Futurama-karaktärer.
 - Begränsa hur många karaktärer som visas.
 - Hämta en specifik karaktär med hjälp av dess `id`.
-- 
+  
 ## Screenshot
 Futurama-webbapplikationen hämtar och visar karaktärsdata dynamiskt från ett externt REST API
 
