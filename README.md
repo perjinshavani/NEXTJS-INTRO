@@ -4,7 +4,20 @@
 
 Det här projektet är byggt med Next.js och använder ett REST API för att hämta data om Futurama-karaktärer.
 
-## Purpose
+## Innehållsförteckning
+
+- [Syfte](#syfte)
+- [Funktioner](#funktioner)
+- [Tekniker](#tekniker)
+- [Så fungerar det](#så-fungerar-det)
+- [API](#api)
+- [Skärmbild](#skärmbild)
+- [Installation](#installation)
+- [Användning](#användning)
+- [Projektstruktur](#projektstruktur)
+- [Författare](#författare)
+
+## Syfte
 Syftet med projektet är att lära mig:
 - API-anrop med `fetch()`
 - Dynamiska routes med `params`
@@ -12,20 +25,20 @@ Syftet med projektet är att lära mig:
 - Felhantering med `response.ok`
 - Visa data från ett API i en Next.js-applikation
 
-## Features
+## Funktioner
 
 -  Visar en lista med Futurama-karaktärer.
 -  Hämtar och visar information om en specifik karaktär med hjälp av ID.
 -  Användaren kan bestämma hur många karaktärer som visas genom `limit` i URL:en.
 -  Hämtar karaktärsdata från ett externt REST API.
 
-## Technologies
+## Tekniker
 - Next.js
 - TypeScript
 - React
 - REST API
 
-  ## How It Works
+ ## Så fungerar det
 
 Applikationen hämtar data om Futurama-karaktärer från ett externt REST API.
 
@@ -45,7 +58,8 @@ API:et används för att:
 - Begränsa hur många karaktärer som visas.
 - Hämta en specifik karaktär med hjälp av dess `id`.
   
-## Screenshot
+## Skärmbild
+
 Futurama-webbapplikationen hämtar och visar karaktärsdata dynamiskt från ett externt REST API
 
 ![Min Futurama-sida](./app/images/Futurama.png)
@@ -82,14 +96,14 @@ npm run dev
 http://localhost:3000
 ```
 
-## Usage
+## Användning
 
 Starta applikationen och öppna den i webbläsaren. 
 Navigera till Futurama-sidan för att se karaktärer och information som hämtas från ett externt API.
 
 
 
-## Project Structure
+## Projektstruktur
 
 Projektet är organiserat med Next.js App Router:
 
@@ -115,7 +129,7 @@ NEXTJS-INTRO/
 
 ``` 
 
-## Author
+## Författare
 
 **Perjin Shavani**
 
