@@ -27,8 +27,7 @@ Syftet med projektet är att lära mig:
 Här är min Futurama-webbapplikation som hämtar data från ett API.
 
 ![Min Futurama-sida](./app/images/Futurama.png)
-- 
-![Min Futurama-sida](./app/images/Futurama.png)
+
   
 
 
