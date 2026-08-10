@@ -29,6 +29,39 @@ Futurama-webbapplikationen hämtar och visar karaktärsdata dynamiskt från ett 
 
 ![Min Futurama-sida](./app/images/Futurama.png)
 
+## Installation
+
+1. Klona repositoryt:
+
+```bash
+git clone https://github.com/perjinshavani/NEXTJS-INTRO.git
+```
+
+2. Gå till projektmappen:
+
+```bash
+cd NEXTJS-INTRO
+```
+
+3. Installera dependencies:
+
+```bash
+npm install
+```
+
+4. Starta utvecklingsservern:
+
+```bash
+npm run dev
+```
+
+5. Öppna sedan applikationen i webbläsaren:
+
+```text
+http://localhost:3000
+```
+
+
   
 
 
