@@ -23,3 +23,8 @@ Syftet med projektet är att lära mig:
 - React
 - REST API
 ![Min Futurama-sida](./app/images/Futurama.png)
+  ##  Screenshot
+
+Här är min Futurama-webbapplikation som hämtar data från ett API.
+
+![Min Futurama-sida](./images/futurama.png)
