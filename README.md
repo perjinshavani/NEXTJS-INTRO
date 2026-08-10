@@ -65,6 +65,29 @@ http://localhost:3000
 
 Starta applikationen och öppna den i webbläsaren. 
 Navigera till Futurama-sidan för att se karaktärer och information som hämtas från ett externt API.
+
+## Project Structure
+
+Projektet är organiserat med Next.js App Router:
+
+```text
+NEXTJS-INTRO/
+├── app/
+│   ├── about/
+│   ├── character/
+│   │   └── [id]/
+│   │       ├── images/
+│   │       │   └── Futurama.png
+│   │       ├── not-found.tsx
+│   │       └── page.tsx
+│   ├── contact/
+│   ├── fonts/
+│   ├── futurama/
+│   └── images/
+├── README.md
+├── package.json
+└── next.config.ts
+
 ## Author
 
 - [Perjin Shavani](https://github.com/perjinshavani)
