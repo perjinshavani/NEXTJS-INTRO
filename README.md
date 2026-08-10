@@ -22,9 +22,14 @@ Syftet med projektet är att lära mig:
 - TypeScript
 - React
 - REST API
-![Min Futurama-sida](./app/images/Futurama.png)
-  ##  Screenshot
+## Screenshot
 
 Här är min Futurama-webbapplikation som hämtar data från ett API.
 
-![Min Futurama-sida](./images/futurama.png)
+![Min Futurama-sida](./app/images/Futurama.png)
+- 
+![Min Futurama-sida](./app/images/Futurama.png)
+  
+
+
+
