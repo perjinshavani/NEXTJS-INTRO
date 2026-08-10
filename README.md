@@ -13,9 +13,11 @@ Syftet med projektet är att lära mig:
 - Visa data från ett API i en Next.js-applikation
 
 ## Features
-- Visar en lista med karaktärer.
-- Hämtar en specifik karaktär med hjälp av id.
-- Användaren kan bestämma hur många karaktärer som ska visas genom `limit` i URL:en.
+
+-  Visar en lista med Futurama-karaktärer.
+-  Hämtar och visar information om en specifik karaktär med hjälp av ID.
+-  Användaren kan bestämma hur många karaktärer som visas genom `limit` i URL:en.
+-  Hämtar karaktärsdata från ett externt REST API.
 
 ## Technologies
 - Next.js
